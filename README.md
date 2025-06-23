@@ -56,8 +56,8 @@ serverless-todo-app/
   "task": "Finish AWS Lambda integration"
 }
 ```
-
-##Setup Instructions
+---
+## Setup Instructions
 - Configure AWS CLI with aws configure
 - Deploy the Lambda using the AWS Console or CLI
 - Set up an HTTP API via API Gateway

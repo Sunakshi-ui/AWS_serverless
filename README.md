@@ -23,7 +23,7 @@ A fully serverless task manager built using AWS Lambda, API Gateway, and DynamoD
 ## Folder Structure
 
 ```
-serverless-todo-app/
+AWS_serverless/
 ├── index.js                  # Main Lambda function containing CRUD operations
 ├── package.json              # Project dependencies (e.g., aws-sdk)
 ├── package-lock.json         # Lockfile to ensure consistent installs
